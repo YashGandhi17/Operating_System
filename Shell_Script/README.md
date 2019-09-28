@@ -28,7 +28,6 @@ command line arguments.
 16. Write a shell script to remove all the zero sized files from the current directory.
 17. Combine Emp1 and Emp2 in file Emp3 horizontally and vertically.
 18. Write a shell script to make the following file and management operations menu based:
-  
   a) Display the current directory.
   b) List directory.
   c) Make directory.
